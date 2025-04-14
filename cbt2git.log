@@ -1,7 +1,7 @@
-2025-04-13 18:37:21.731660 - Received CBT.V508.FILE317.PDS from FILE317.XMI 
-2025-04-13 18:37:21.732407 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/$$$#DATE
-2025-04-13 18:37:21.732499 - Found @FILE317.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/@FILE317
-2025-04-13 18:37:21.732656 - Found BKMGRMNT.rexx (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/BKMGRMNT
-2025-04-13 18:37:21.732776 - Found CNTL.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/CNTL
-2025-04-13 18:37:21.732880 - Found JCL.jcl (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/JCL
-2025-04-13 18:37:21.732980 - Found MSG.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/MSG
+2025-04-15 01:28:09.137930 - Received CBT.V508.FILE317.PDS from FILE317.XMI 
+2025-04-15 01:28:09.139228 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:28:09.139585 - Found @FILE317.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/@FILE317
+2025-04-15 01:28:09.140087 - Found BKMGRMNT.rexx (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/BKMGRMNT
+2025-04-15 01:28:09.140403 - Found CNTL.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/CNTL
+2025-04-15 01:28:09.140722 - Found JCL.jcl (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/JCL
+2025-04-15 01:28:09.141028 - Found MSG.txt (text/plain) in CBT.V508.FILE317.PDS, moved to PDS/MSG
